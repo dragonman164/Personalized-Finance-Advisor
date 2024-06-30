@@ -11,5 +11,5 @@ A personalized application that provides customized financial advice based on th
 
 ### Azure Architecture
 
-![](Screenshots/Blank%20diagram.jpeg)
+![](Screenshots/AzureArchitecture.jpeg)
 
